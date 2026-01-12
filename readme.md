@@ -1,5 +1,3 @@
-
----
 # Vertex AI for Machine Learning Operations
 
 >**2025 UPDATE:** The repository is progressing toward an MLOps focused approach for predictive and generative AI operations.
