@@ -28,7 +28,7 @@
     <a href="https://x.com/statmike"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="X (Twitter) Logo" width="20px"></a>
   </td>
 </tr>
-</table><br/><br/>
+</table><br/><br/> 
 
 ---
 # Vertex AI for Machine Learning Operations
